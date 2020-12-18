@@ -1,0 +1,25 @@
+{
+  "name": "breakingbad",
+  "version": "1.0.0",
+  "description": "Proyecto para consumir API de Breaking Bad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/roykachani/BraekingBad.git"
+  },
+  "keywords": [
+    "breaking",
+    "bad",
+    "javascript",
+    "API"
+  ],
+  "author": "Roy Kachani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roykachani/BraekingBad/issues"
+  },
+  "homepage": "https://github.com/roykachani/BraekingBad#readme"
+}
